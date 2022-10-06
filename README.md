@@ -1,5 +1,5 @@
 # ALX-UDACITY_INVESTIGATE-A-DATASET-PROJECT
 
-##Backgound Information
+## Backgound Information
 
-##Problem statement
+## Problem statement
